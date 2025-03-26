@@ -17,7 +17,7 @@ Follow these steps to download and extract the files using the terminal:
 1. Run the following command in your terminal:
 
   ~~~Bash
-  wget [https://wm1.ncra.tifr.res.in/index.php/s/kknQTQbHW48JRp8](https://wm1.ncra.tifr.res.in/index.php/s/K8wTQcS3EsXY2SN)/download
+  wget https://wm1.ncra.tifr.res.in/index.php/s/K8wTQcS3EsXY2SN/download
   ~~~
 
 2. The downloaded file will be named **"download"**. Rename it with the correct `.zip` extension:
