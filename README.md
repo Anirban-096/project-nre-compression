@@ -41,7 +41,7 @@ Follow these steps to download and extract the files using a web browser:
 
 1. Open a new private/incognito browser window and visit the following link:  
 
-   [https://wm1.ncra.tifr.res.in/index.php/s/kknQTQbHW48JRp8](https://wm1.ncra.tifr.res.in/index.php/s/K8wTQcS3EsXY2SN)
+   [https://wm1.ncra.tifr.res.in/index.php/s/K8wTQcS3EsXY2SN](https://wm1.ncra.tifr.res.in/index.php/s/K8wTQcS3EsXY2SN)
 
 2. Click the **"Download all files"** button located at the top-right corner. This will download a zip folder named **'simulation_files.zip'**.
 
