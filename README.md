@@ -1,6 +1,6 @@
 # Project NRE-Compression
 
-This repository contains the basic python3 codes for the project related to Neural Ration Estimation (NRE) and Compression with SCRIPT and instructions for downloading and extracting the essential data files.
+This repository contains the basic python3 codes for the project related to Neural Ratio Estimation (NRE) and Compression with SCRIPT and instructions for downloading and extracting the essential data files.
 
 ## Data Files
 
