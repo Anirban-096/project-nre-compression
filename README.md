@@ -6,8 +6,7 @@ This repository contains the basic python3 codes for the project related to Neur
 
 Download the MUSIC snapshot files and SCRIPT-processed files from the following link:  
 
-[https://wm1.ncra.tifr.res.in/index.php/s/kknQTQbHW48JRp8
-](https://wm1.ncra.tifr.res.in/index.php/s/K8wTQcS3EsXY2SN)
+[https://wm1.ncra.tifr.res.in/index.php/s/K8wTQcS3EsXY2SN](https://wm1.ncra.tifr.res.in/index.php/s/K8wTQcS3EsXY2SN)
 ## Instructions for Downloading Data Files
 
 ### Using Command-Line Terminal
